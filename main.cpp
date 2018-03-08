@@ -1,3 +1,14 @@
+/*
+
+Usage: 
+-v   <filename> 	- Every token is printed when it is seen
+-mci <filename>		- Identifier that appears most often is printed
+-sum <filename>		- Summary information is printed
+
+Note: All of these flags are optional
+
+*/
+
 #include "projlex.h"
 #include <stdlib.h>
 #include <iostream>
